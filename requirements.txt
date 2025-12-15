@@ -1,0 +1,11 @@
+# MLQ Scheduler - Python Dependencies
+# This project uses only Python standard library
+# No external packages required
+
+# Python version requirement
+# python>=3.8
+
+# If you want to add any future dependencies, list them here
+# Example:
+# numpy==1.24.0
+# pandas==2.0.0
