@@ -31,7 +31,7 @@ mlq_scheduler/
 
 ### Step 1: Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/muhammadmomin76/mlq_scheduler.git>
 cd mlq_scheduler
 ```
 
